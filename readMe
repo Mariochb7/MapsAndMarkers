@@ -1,0 +1,5 @@
+App with google map integrated , markers on map , interfaces , classes, using parcel to build.
+
+<to build> 
+npx parcel index.html
+</to build> 
